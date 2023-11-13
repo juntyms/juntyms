@@ -4,7 +4,7 @@
 📫 How to reach me: juntyms@gmail.com
 
 ⚡ Fun fact:
-
+- Laravel Developer since 2013
 
 <!--
 **juntyms/juntyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
