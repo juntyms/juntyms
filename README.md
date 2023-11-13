@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Junn
 
 
 📫 How to reach me: juntyms@gmail.com
