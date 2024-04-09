@@ -1,10 +1,26 @@
-### Hi there 👋 I'm Junn
-
+# Hi there 👋 I'm Junn
 
 📫 How to reach me: juntyms@gmail.com
 
 ⚡ Fun fact:
-- Web Developer since 2013
+- Laravel Web Developer
+- Ubuntu Linux Web Server Administrator
+  
+⚡ Projects
+### Wordpress Websites
+- https://www.sct.edu.om/graduation/
+- https://projecttreetag.ciit.edu.ph/ttp
+- https://techprograms.ciit.edu.ph/
+- https://www.vgtechph.com/
+- https://ipoprojects.com/
+
+
+### Custom Web Applications (Laravel)
+Inventory System:
+Demo Link: http://inventorydemo.vgtechph.com/
+Username: merchant@demo.com
+Password: 1234
+
 
 <!--
 **juntyms/juntyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
