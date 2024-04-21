@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Junn
 
 📫 How to reach me: juntyms@gmail.com
-
-⚡ Fun fact:
 - Laravel Web Developer
 - Ubuntu Linux Web Server Administrator
   
