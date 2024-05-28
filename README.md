@@ -17,12 +17,12 @@
 
 
 ### Custom Web Applications (Laravel)
-####Inventory System:
+#### Inventory System:
 http://invpos.vgtechph.com/
 username: merchant@demo.com
 password: 1234
 
-####Payroll System
+#### Payroll System
 http://payroll.vgtechph.com/
 username: admin@demo.om
 password: 1234)
