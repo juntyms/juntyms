@@ -9,26 +9,26 @@
   
 ⚡ Projects
 ### Wordpress Websites
-https://www.sct.edu.om/graduation/
-https://projecttreetag.ciit.edu.ph/ttp
-https://techprograms.ciit.edu.ph/
-https://bararinoos.com/
-https://www.vgtechph.com/
-http://asosa.vgtechph.com/
-https://americanurgentclinic.companyhub.net/
-https://meterengineering.companyhub.net/
+- https://www.sct.edu.om/graduation/
+- https://projecttreetag.ciit.edu.ph/ttp
+- https://techprograms.ciit.edu.ph/
+- https://bararinoos.com/
+- https://www.vgtechph.com/
+- http://asosa.vgtechph.com/
+- https://americanurgentclinic.companyhub.net/
+- https://meterengineering.companyhub.net/
 
 
 ### Custom Web Applications (Laravel)
 #### Inventory System:
 http://invpos.vgtechph.com/
-username: merchant@demo.com
-password: 1234
+- username: merchant@demo.com
+- password: 1234
 
 #### Payroll System
 http://payroll.vgtechph.com/
-username: admin@demo.om
-password: 1234)
+- username: admin@demo.om
+- password: 1234)
 
 
 <!--
