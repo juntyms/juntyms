@@ -9,11 +9,14 @@
   
 ⚡ Projects
 ### Wordpress Websites
-- https://www.sct.edu.om/graduation/
-- https://projecttreetag.ciit.edu.ph/ttp
-- https://techprograms.ciit.edu.ph/
-- https://www.vgtechph.com/
-- https://ipoprojects.com/
+https://www.sct.edu.om/graduation/
+https://projecttreetag.ciit.edu.ph/ttp
+https://techprograms.ciit.edu.ph/
+https://bararinoos.com/
+https://www.vgtechph.com/
+http://asosa.vgtechph.com/
+https://americanurgentclinic.companyhub.net/
+https://meterengineering.companyhub.net/
 
 
 ### Custom Web Applications (Laravel)
