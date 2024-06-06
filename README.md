@@ -1,4 +1,4 @@
-![image](https://github.com/juntyms/juntyms/assets/4469427/e6914145-00cd-452a-ad29-fc641454a084)## Hi there 👋 I'm Junn
+## Hi there 👋 I'm Junn
 
 📫 How to reach me: juntyms@gmail.com
 - Laravel Web Developer
