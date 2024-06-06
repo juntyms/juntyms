@@ -25,7 +25,7 @@ http://invpos.vgtechph.com/
 #### Payroll System
 http://payroll.vgtechph.com/
 - username: admin@demo.om
-- password: 1234)
+- password: 1234
 
 
 <!--
