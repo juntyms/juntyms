@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Junn
+![image](https://github.com/juntyms/juntyms/assets/4469427/e6914145-00cd-452a-ad29-fc641454a084)## Hi there 👋 I'm Junn
 
 📫 How to reach me: juntyms@gmail.com
 - Laravel Web Developer
@@ -8,6 +8,17 @@
 - Ubuntu Linux Web Server Administrator
   
 ⚡ Projects
+### Custom Web Applications (Laravel)
+#### Inventory System:
+http://invpos.vgtechph.com/  
+👤 username: merchant@demo.com  
+🔑 password: 1234  
+
+#### Payroll System
+http://payroll.vgtechph.com/  
+👤 username: admin@demo.om  
+🔑 password: 1234  
+
 ### Wordpress Websites
 - https://www.sct.edu.om/graduation/
 - https://bararinoos.com/
@@ -15,19 +26,6 @@
 - http://asosa.vgtechph.com/
 - https://americanurgentclinic.companyhub.net/
 - https://meterengineering.companyhub.net/
-
-### Custom Web Applications (Laravel)
-#### Inventory System:
-http://invpos.vgtechph.com/
-- username: merchant@demo.com
-- password: 1234
-
-#### Payroll System
-http://payroll.vgtechph.com/
-- username: admin@demo.om
-- password: 1234
-
-
 <!--
 **juntyms/juntyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
