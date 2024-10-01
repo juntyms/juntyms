@@ -1,11 +1,13 @@
 ## Hi there 👋 I'm Junn
 
 📫 How to reach me: juntyms@gmail.com
+- Educator
 - Laravel Web Developer
 - Wordpress Developer
 - Joomla CMS Webmaster
 - Moodle Administrator
 - Ubuntu Linux Web Server Administrator
+- Database Management
   
 ⚡ Projects
 ### Custom Web Applications (Laravel)
@@ -24,7 +26,6 @@ http://payroll.vgtechph.com/
 - https://www.sct.edu.om/graduation/
 - https://bararinoos.com/
 - https://www.vgtechph.com/
-- http://asosa.vgtechph.com/
 - https://americanurgentclinic.companyhub.net/
 - https://meterengineering.companyhub.net/
 <!--
