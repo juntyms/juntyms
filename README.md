@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Junn
+## Hi there 👋 I'm Junn Eric
 
 📫 How to reach me: juntyms@gmail.com
 - Educator
