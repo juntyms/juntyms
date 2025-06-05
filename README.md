@@ -2,6 +2,7 @@
 
 📫 How to reach me: juntyms@gmail.com
 - Educator
+- Industrial System Integrator
 - Laravel Web Developer
 - Wordpress Developer
 - Joomla CMS Webmaster
