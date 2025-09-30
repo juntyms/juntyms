@@ -15,12 +15,12 @@
 #### Inventory System:
 http://invpos.vgtechph.com/  
 👤 username: merchant@demo.com  
-🔑 password: 1234  
+🔑 password: 4321  
 
 #### Payroll System
 http://payroll.vgtechph.com/  
 👤 username: admin@demo.om  
-🔑 password: 1234  
+🔑 password: 4321
 
 ### Wordpress Websites
 - https://healthrevolution360.com/
