@@ -19,8 +19,8 @@ http://invpos.vgtechph.com/
 
 #### Payroll System
 http://payroll.vgtechph.com/  
-👤 username: admin@demo.om  
-🔑 password: 4321
+👤 username: admin@demo.com  
+🔑 password: 1234
 
 ### Wordpress Websites
 - https://healthrevolution360.com/
