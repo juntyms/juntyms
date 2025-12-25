@@ -29,6 +29,15 @@ http://payroll.vgtechph.com/
 - https://www.vgtechph.com/
 - https://americanurgentclinic.companyhub.net/
 - https://meterengineering.companyhub.net/
+
+## Tutorial Websites
+- https://sites.google.com/view/cswd1103 (web development 1)
+- https://sites.google.com/view/cswd2101 (web development 2)
+- https://sites.google.com/sct.edu.om/git-and-github/home (git)
+- https://sites.google.com/sct.edu.om/learning-docker (docker)
+- https://sites.google.com/view/mobile-app-dev-flutter/home (flutter)
+- https://sites.google.com/view/learn-django/home (Django)
+
 <!--
 **juntyms/juntyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
